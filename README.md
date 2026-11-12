@@ -1,7 +1,5 @@
 # Hi, I'm Yossi Tal 👋
 
-Data Analyst & BI Developer with 4+ years of experience turning data into insight and decisions.
+Data Analyst & BI Developer with 4+ years of experience turning data into decisions — now expanding into AI-driven automation and intelligent agents.
 
-- 🔧 **Core tools:** SQL, PL/SQL, Power BI, Python
-- 🤖 **Currently exploring:** AI-driven automation and agent-based tools
-- 📂 Check out my projects below
+**Core tools:** SQL · PL/SQL · Power BI · Python
